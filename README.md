@@ -1,1 +1,2 @@
 # IOT-Enabled-Air-Quality-Monitoring-System
+An IoT-Enabled Air Quality Monitoring System leverages IoT devices to measure and track air quality in real-time. Equipped with sensors, it collects data on pollutants like CO₂, PM2.5, and NO₂, transmitting the data to a cloud platform for analysis. Users can access insights via mobile apps or dashboards, enabling informed decisions for healthier environments. Ideal for urban areas, industries, and smart homes, it promotes proactive air quality management.
